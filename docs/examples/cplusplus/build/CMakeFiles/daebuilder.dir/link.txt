@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/daebuilder.dir/daebuilder.o  -o daebuilder  -lcasadi 

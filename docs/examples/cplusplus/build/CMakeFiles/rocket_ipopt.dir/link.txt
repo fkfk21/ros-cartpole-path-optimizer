@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/rocket_ipopt.dir/rocket_ipopt.o  -o rocket_ipopt  -lcasadi 

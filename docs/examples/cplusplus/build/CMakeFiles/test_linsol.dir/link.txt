@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_linsol.dir/test_linsol.o  -o test_linsol  -lcasadi 

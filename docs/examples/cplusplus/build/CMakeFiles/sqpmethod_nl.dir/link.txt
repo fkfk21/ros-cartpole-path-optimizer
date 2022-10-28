@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/sqpmethod_nl.dir/sqpmethod_nl.o  -o sqpmethod_nl  -lcasadi 

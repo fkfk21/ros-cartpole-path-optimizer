@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/casadi_error_handling.dir/casadi_error_handling.o  -o casadi_error_handling  -lcasadi 

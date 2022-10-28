@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/rocket_mx_and_sx.dir/rocket_mx_and_sx.o  -o rocket_mx_and_sx  -lcasadi 

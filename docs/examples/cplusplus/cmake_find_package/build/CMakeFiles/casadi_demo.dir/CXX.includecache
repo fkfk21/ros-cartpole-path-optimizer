@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fkfk21/mysrc/casadi/docs/examples/cplusplus/cmake_find_package/casadi_demo.cpp
+iostream
+-
+fstream
+-
+ctime
+-
+casadi/casadi.hpp
+-
+

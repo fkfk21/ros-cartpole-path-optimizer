@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/race_car.dir/race_car.o  -o race_car  -lcasadi 

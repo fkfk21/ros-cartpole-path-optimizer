@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/callback.dir/callback.o  -o callback  -lcasadi 

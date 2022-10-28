@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/rosenbrock.dir/rosenbrock.o  -o rosenbrock  -lcasadi 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=gnu++11  -rdynamic CMakeFiles/casadi_demo.dir/casadi_demo.cpp.o  -o casadi_demo  -Wl,-rpath,/usr/local/lib /usr/local/lib/libcasadi.so.3.6 -ldl 

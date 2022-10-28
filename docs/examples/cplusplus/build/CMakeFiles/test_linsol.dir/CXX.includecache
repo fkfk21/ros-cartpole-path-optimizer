@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fkfk21/mysrc/casadi/docs/examples/cplusplus/test_linsol.cpp
+casadi/casadi.hpp
+/home/fkfk21/mysrc/casadi/docs/examples/cplusplus/casadi/casadi.hpp
+
